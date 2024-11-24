@@ -1,0 +1,7 @@
+# 数据库配置
+[mysql]
+host = "10.10.10.10"
+port = 3306
+db = "blog"
+username = "blog"
+password = "blog123"

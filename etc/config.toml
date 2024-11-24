@@ -1,0 +1,12 @@
+# http 监听配置
+[http]
+host = "127.0.0.1"
+port = 18080
+
+# 数据库配置
+[mysql]
+host = "127.0.0.1"
+port = 3306
+db = "blog"
+username = "blog"
+password = "blog123"
